@@ -85,6 +85,7 @@ bar:
       max_artist_length: 20
     - type: "system tray"
       padding: "4px"
+      expanded: false
     - type: "tiling direction"
       label_horizontal: "⮂"
       label_vertical: "⮁"
